@@ -1,5 +1,4 @@
-
-include(external/vcpkg.cmake)
+include(vcpkg.cmake)
 
 project(TestVcPkg)
 cmake_minimum_required(VERSION 3.14)
